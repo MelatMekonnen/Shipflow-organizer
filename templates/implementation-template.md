@@ -1,9 +1,9 @@
-## ShipFlow Implementation Template
+# ShipFlow Implementation Template
 
 This template guides warehouses on how to apply ShipFlow operational rules
 using the official ShipFlow release materials.
 
-## 1.Required Materials
+## 1. Required Materials
 
 Before implementation, download the official ShipFlow resources:
 
@@ -12,7 +12,7 @@ Before implementation, download the official ShipFlow resources:
 
 Download both from the [ShipFlow v1.0 release](https://github.com/MelatMekonnen/Shipflow-organizer/releases/tag/v1.0).
 
-## 2.Roles Covered
+## 2. Roles Covered
 
 ShipFlow standardizes coordination between:
 
@@ -22,7 +22,7 @@ ShipFlow standardizes coordination between:
 - ⁠DCM / Direct Load
 - ⁠Trailer & Staging Area Management
 
-## 3.Implementation Checklist
+## 3. Implementation Checklist
 
 - [ ] Review CPT and trailer constraints
 - [ ] Align lane-to-code distribution rules
@@ -30,7 +30,7 @@ ShipFlow standardizes coordination between:
 - [ ] Enforce WIP Tool relocation rules
 - [ ] Validate Ship Clerk trailer assignments  
 
-## 4.Notes
+## 4. Notes
 
 This template does not replace internal systems.
 ShipFlow organizes human workflow around existing tools
